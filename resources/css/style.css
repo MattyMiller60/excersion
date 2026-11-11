@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+img, video {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+
+h1 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: grey;
+}
+
+p.copyright {
+    text-align:  right;
+    color: grey;
+}
